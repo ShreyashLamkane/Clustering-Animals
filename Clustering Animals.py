@@ -6,7 +6,7 @@
 
 import pandas as pd
 
-data=pd.read_csv("E:/Placement courses/ML Projects/Clustering Animals/zoo.csv")
+data=pd.read_csv("zoo.csv")
 
 
 # In[2]:
